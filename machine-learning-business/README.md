@@ -1,4 +1,4 @@
-# Predicting Bank Telemarketing Outcomes Report Summary
+# Predicting Bank Telemarketing Outcomes
 
 ## Introduction and Background
 The report starts with an overview of the surge in bank deposits in the EU from June 2017 to June 2021, a period marked by increased savings due to economic uncertainty sparked by the COVID-19 pandemic. It highlights the inefficiency of traditional telemarketing methods employed by Portuguese banks and suggests a shift towards data-driven strategies using machine learning to enhance the promotion of term deposits.
