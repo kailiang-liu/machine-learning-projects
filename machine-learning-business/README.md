@@ -1,7 +1,7 @@
 # Predicting Bank Telemarketing Outcomes
 
 ## Introduction and Background
-The report starts with an overview of the surge in bank deposits in the EU from June 2017 to June 2021, a period marked by increased savings due to economic uncertainty sparked by the COVID-19 pandemic. It highlights the inefficiency of traditional telemarketing methods employed by Portuguese banks and suggests a shift towards data-driven strategies using machine learning to enhance the promotion of term deposits.
+The project starts with an overview of the surge in bank deposits in the EU from June 2017 to June 2021, a period marked by increased savings due to economic uncertainty sparked by the COVID-19 pandemic. It highlights the inefficiency of traditional telemarketing methods employed by Portuguese banks and suggests a shift towards data-driven strategies using machine learning to enhance the promotion of term deposits.
 
 ## Data Understanding and Preparation
 - **Dataset Characteristics**: Analysis was conducted on 41,188 records from bank client interactions, focusing on predicting client subscriptions to term deposits. The dataset featured 20 input attributes and was noted for having no missing values but included some duplicates.
@@ -44,4 +44,4 @@ The use of machine learning models, particularly Random Forest, proved significa
 - **Model Insights**: Each model provided specific insights into the data, with Random Forest outperforming other models in both accuracy and the ability to correctly classify true positive responses.
 - **Practical Applications**: The findings suggest banks can significantly improve their telemarketing strategies by implementing these machine learning techniques, focusing on clients predicted to be more likely to respond positively.
 
-The report advocates for a transformation in bank marketing strategies through the application of sophisticated machine learning algorithms, ensuring a more data-driven approach that is both effective and efficient.
+The project advocates for a transformation in bank marketing strategies through the application of sophisticated machine learning algorithms, ensuring a more data-driven approach that is both effective and efficient.
